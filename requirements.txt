@@ -1,0 +1,10 @@
+streamlit
+google-generativeai
+python-dotenv
+pandas
+numpy
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+requests
+twilio
